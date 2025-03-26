@@ -1,0 +1,54 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+venv/
+env/
+.env/
+
+# IDE Files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs and Databases
+*.log
+*.sqlite
+*.db
+
+# Backup Files
+*.bak
+*~
+
+# Build and Distribution
+build/
+dist/
+*.egg-info/
+*.spec
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+
+# Temporary Files
+*.tmp
+*.swp
+temp/
+tmp/
+
+# Sensitive Information
+config.ini
+secrets.json
+*.env
+
+# Large Binary Files
+*.exe
+*.msi
+*.zip
+
+# Installer and Output Directories
+Output/
+Installer/

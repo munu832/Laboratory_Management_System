@@ -1,0 +1,29 @@
+# Core Python Libraries
+tkinter
+sqlite3
+datetime
+csv
+os
+pathlib
+tempfile
+shutil
+hashlib
+json
+threading
+random
+
+# External Libraries
+qrcode==7.3.1
+Pillow==9.5.0
+reportlab==3.6.12
+
+# Additional Optional Dependencies
+numpy==1.22.4
+pandas==1.4.2
+matplotlib==3.5.2
+openpyxl==3.0.10
+
+# Development and Testing Dependencies
+pytest==7.1.2
+black==22.3.0
+mypy==0.950
